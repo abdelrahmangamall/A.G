@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmangamall" alt="abdelrahmangamall" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot As an extra effort with my studies at my university Deep Learning & NLP .**
+- I’m currently Senior Scientific Computing(AI) Student at Ain Shams University [Full stack web app](https://github.com/abdelrahmangamall/E-Commerce-WebApp)
+
+- 🌱I learned Backend with the .Net framework, and I’m currently learning **Spring Boot As an extra effort with my studies at my university Deep Learning & NLP.**
+
+- I’m looking to collaborate on real projects related to backend or data with AI [Motor Imagery Based Photo Viewer](https://github.com/abdelrahmangamall/motor_Imagery_based_photo_viewer)
 
 - 💬 Ask me about **Software Engineering, Data Engineering, Backend with .Net or Spring Boot.**
 
 - 📫 How to reach me **abdulrahmangamaall@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1TSEbUj-2J8He_bARF2rHgUjIKYAngFmE/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true](https://docs.google.com/document/d/1TSEbUj-2J8He_bARF2rHgUjIKYAngFmE/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true)
+
+- Fun Fact **I'm a coffee enthusiast ☕ and love exercising in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
