@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmangamall" alt="abdelrahmangamall" /></a> </p>
 
-- I’m currently Senior Scientific Computing(AI) Student at Ain Shams University [Full stack web app](https://github.com/abdelrahmangamall/E-Commerce-WebApp)
-
+- I’m a Senior Scientific Computing(AI) Student at Ain Shams University.
+  
 - 🌱I learned Backend with the .Net framework, and I’m currently learning **Spring Boot As an extra effort with my studies at my university Deep Learning & NLP.**
 
-- I’m looking to collaborate on real projects related to backend or data with AI [Motor Imagery Based Photo Viewer](https://github.com/abdelrahmangamall/motor_Imagery_based_photo_viewer)
+- I’m looking to collaborate on real projects related to backend or data with AI.
 
 - 💬 Ask me about **Software Engineering, Data Engineering, Backend with .Net or Spring Boot.**
 
