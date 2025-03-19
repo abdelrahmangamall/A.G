@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Data Engineer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmangamall" alt="abdelrahmangamall" /></a> </p>
+
 
 - I’m a Senior Scientific Computing(AI) Student at Ain Shams University.
   
