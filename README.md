@@ -7,9 +7,9 @@
   
 - 🌱I learned Backend with the .Net framework, and I’m currently learning **Spring Boot As an extra effort with my studies at my university Deep Learning & NLP.**
 
-- I’m looking to collaborate on real projects related to backend or data with AI.
+- I’m looking to collaborate on real projects related to the backend or handle data with AI.
 
-- 💬 Ask me about **Software Engineering, Data Engineering, Backend with .Net or Spring Boot.**
+- 💬 Ask me about **Java, C#, Python.**
 
 - 📫 How to reach me **abdulrahmangamaall@gmail.com**
 
