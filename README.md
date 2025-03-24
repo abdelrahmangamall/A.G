@@ -10,7 +10,7 @@
 🤝 **Looking to Collaborate**  
 Open to projects in **backend development** or **AI/data engineering**!  
 
-💬 **Ask me about** Java, C#, Python, or AI/ML basics.  
+💬 **Ask me about** Java, C#, Python, or AI/ML fundamentals.  
 
 📫 **Reach out**: [Email](mailto:abdulrahmangamaall@gmail.com) | [Resume](https://docs.google.com/document/d/1ktOhuLWTiirXQlkc2Yk1G4y0kkA6Ptmd/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true)  
 
