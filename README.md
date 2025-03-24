@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 
+🎓 Senior AI (Scientific Computing) Student @ Ain Shams University  
+
+🌱 **Skills & Interests**  
+- Backend: **.NET** | **Spring Boot** (currently learning)  
+- AI: **Deep Learning (DL)** & **Natural Language Processing (NLP)**  
+- Languages: **Java**, **C#**, **Python**  
+
+🤝 **Looking to Collaborate**  
+Open to projects in **backend development** or **AI/data engineering**!  
+
+💬 **Ask me about** Java, C#, Python, or AI/ML basics.  
+
+📫 **Reach out**: [Email](mailto:abdulrahmangamaall@gmail.com) | [Resume](https://docs.google.com/document/d/1ktOhuLWTiirXQlkc2Yk1G4y0kkA6Ptmd/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true)  
 
 
 
-- I’m a Senior Scientific Computing(AI) Student at Ain Shams University.
-  
-- 🌱I learned Backend with the .Net framework, and I’m currently learning **Spring Boot As an extra effort with my studies at my university Deep Learning & NLP.**
 
-- I’m looking to collaborate on real projects related to the backend or handle data with AI.
 
-- 💬 Ask me about **Java, C#, Python.**
-
-- 📫 How to reach me **abdulrahmangamaall@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1TSEbUj-2J8He_bARF2rHgUjIKYAngFmE/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true](https://docs.google.com/document/d/1TSEbUj-2J8He_bARF2rHgUjIKYAngFmE/edit?usp=sharing&ouid=117365581699158828676&rtpof=true&sd=true)
-
-- Fun Fact **I'm a coffee enthusiast ☕ and love exercising in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
