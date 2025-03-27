@@ -3,7 +3,7 @@
 🎓 Senior AI (Scientific Computing) Student @ Ain Shams University  
 
 🌱 **Skills & Interests**  
-- Backend: **.NET** | **Spring Boot** (currently learning)  
+- Backend: **.NET** | **Spring Boot** (Basic knowledge)  
 - AI: **Deep Learning (DL)** & **Natural Language Processing (NLP)**  
 - Languages: **Java**, **C#**, **Python**  
 
