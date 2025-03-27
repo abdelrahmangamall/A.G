@@ -6,7 +6,8 @@
 - Backend: **.NET** | **Spring Boot** (Basic knowledge)  
 - AI: **Deep Learning (DL)** & **Natural Language Processing (NLP)**  
 - Languages: **Java**, **C#**, **Python**  
-
+- CS Fundamentals: **OOP**, **Data Structures**, **Algorithms**, **SOLID**, **Dedign Pattern**.
+  
 🤝 **Looking to Collaborate**  
 Open to projects in **backend development** or **AI/data engineering**!  
 
